@@ -11,7 +11,7 @@ Nessa análise visamos responder algumas perguntas sobre os protestos nos Estado
 - Quais são os estados com mais protestos, e protestos por habitante?
 - Há uma tendência de aumento ou diminuição dos protestos?
 - Quais são os tipos de protestos mais comuns?
-- Depois da morte de George Floyd, houve um aumento nos protestos? Se sim, em quais estados e quais tipos de protestos?
+- Depois da morte de George Floyd, houve um aumento nos protestos? 
 - Há diferenças na reivindicação dos protestos entre os estados? Há uma correlação entre o fato de um estado ser democrata ou republicano e o tipo de protesto?
 
 ## Leitura de Dados

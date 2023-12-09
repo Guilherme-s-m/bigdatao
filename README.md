@@ -12,10 +12,16 @@ Nessa análise visamos responder algumas perguntas sobre os protestos nos Estado
 - Há uma tendência de aumento ou diminuição dos protestos?
 - Quais são os tipos de protestos mais comuns?
 - Depois da morte de George Floyd, houve um aumento nos protestos? 
-- Há diferenças na reivindicação dos protestos entre os estados? Há uma correlação entre o fato de um estado ser democrata ou republicano e o tipo de protesto?
-
-## Leitura de Dados
+- Há diferenças na quantidade de protestos entre os estados, considerando o perfil democrata e republicano de cada um deles?
 
 ## Análise
 
+Foram feitos diversos gráficos e análises quantitativas para responder as perguntas acima, que podem ser encontrados no arquivo `read.ipynb` com mais detalhes.
+
 ## Conclusão
+
+- Os estados com mais protestos são Califórnia, Nova York e Flórida, o que já era esperado, uma vez que estão entre os estados mais populosos dos Estados Unidos. No entanto, quando analisamos os protestos por habitante, os estados com mais protestos são o Distrito Federal (Washington DC), Vermont e o Alaska.
+- Dentre os anos análisados a quantidade de protestos variou, mas com um pico em 2020, o que pode ser explicado pela morte de George Floyd e o movimento Black Lives Matter.
+- Por uma ampla magem, os protestos mais comuns são os que lutam contra o racismo, seguidos por protestos contra imigração e protestos pelos direitos civis.
+- Após a morte de George Floyd, houve um aumento muito expressivo nos protestos, principalmente os que lutam contra o racismo. Desde o começo da análise, em 2017, até o dia 25 de maio de 2020, foram registrados 989 protestos contra o racismo, e a partir do dia 26 de maio de 2020 até o dia 19 de Agosto de 2020, foram registrados 6291 protestos contra o racismo.
+- Foi constatado que, em média, estados com perfil democrata tiveram mais protestos por habitantes do que estados com perfil republicano em cerca de 36,8%. 
